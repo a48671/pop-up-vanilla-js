@@ -62,10 +62,11 @@ body {
     font-weight: 700;
 }
 .tariffs__description {
-    font-size: 13px;
+    font-size: 12px;
     color: #adaead;
     margin-bottom: 15px;
     font-weight: 500;
+    line-height: 1.35;
 }
 .tariffs__price {
     color: #5472d6;
